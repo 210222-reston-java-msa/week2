@@ -1,0 +1,43 @@
+package com.example.indirectservlet;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.apache.log4j.Logger;
+
+import com.example.directservlet.DirectServlet;
+
+/**
+ * Servlet implementation class IndirectServlet
+ */
+public class IndirectServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+	private Logger log = Logger.getLogger(IndirectServlet.class);
+
+   
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		log.info("in the Indirect doGet() method");
+		
+		//there is a method on the response object called sendRedirect()
+		//this allows us to redirect the user to another resource
+		
+//		response.sendRedirect("https://www.google.com");
+		
+		//redirect to another servlet
+//		response.sendRedirect("http://lo.scalhost:8080/HelloServlet/dirserv");
+		
+		//redirect to another html page
+		response.sendRedirect("./webapp/resources/html/somepage.html");
+		
+	}
+
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		doGet(request, response);
+	}
+
+}

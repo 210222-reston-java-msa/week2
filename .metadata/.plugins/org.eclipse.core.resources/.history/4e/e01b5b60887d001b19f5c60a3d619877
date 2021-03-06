@@ -1,0 +1,24 @@
+package com.reavture.services;
+
+import java.util.List;
+
+import com.revature.models.Employee;
+import com.revature.repositories.EmployeeDAO;
+import com.revature.repositories.EmployeeDAOImpl;
+
+public class EmployeeService {
+	
+	public static EmployeeDAO eDao = new EmployeeDAOImpl();
+	
+	public static boolean insert(Employee e) {
+		return eDao.insert(e);	
+	}
+
+	public static boolean update(Employee e) {
+		return eDao.update(e);
+	}
+	
+	public static List<Employee> findAll() {
+		return eDao.findAll();
+	}
+}

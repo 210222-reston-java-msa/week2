@@ -1,0 +1,26 @@
+package com.example.directservlet;
+
+import javax.servlet.http.HttpServlet;
+
+import org.apache.log4j.Logger;
+
+public class DirectServlet extends HttpServlet {
+
+	private static final long serialVersionUID = 1L;
+	
+	private Logger log = Logger.getLogger(DirectServlet.class);
+	
+	/* 
+	 * 3 Steps to create a Servlet
+	 * 
+	 * Step 1: create a class that inherits from HttpServlet or GenericServlet
+	 * 
+	 * Step 2: Override that doGet and doPOst methods()
+	 * 	- we do NOT override the init() methods (abstracted)
+	 * 
+	 * Step 3: configure the servlet in your web.xml (Deployment Descriptor)
+	 */
+
+
+
+}
