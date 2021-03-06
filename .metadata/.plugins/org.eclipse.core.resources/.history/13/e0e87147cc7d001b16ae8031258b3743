@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
+  <display-name>HelloConfigContext</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+  
+  <!-- Here, I'm defining the Servlet Context Parameter. This is a global object
+  		that's shared amongst all Servlets! -->
+  <!-- Typically we use this to share some initial params or configuration info across the Whole application -->
+  <context-param>
+  	<param-name>contextEample</param-name>
+  	<param-value>Global Pizza Chains</param-value>
+  </context-param>
+  
+  <servlet>
+  
+    <servlet-name>FirstServ</servlet-name>
+    <servlet-class>com.revature.servlet.FirstServ</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>FirstServ</servlet-name>
+    <url-pattern>/first</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+   
+    <servlet-name>SecondServ</servlet-name>
+    <servlet-class>SecondServ</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>SecondServ</servlet-name>
+    <url-pattern>/second</url-pattern>
+  </servlet-mapping>
+  
+</web-app>

@@ -1,0 +1,166 @@
+2021-03-06 00:53:07 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 00:53:07 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 00:54:53 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 00:54:53 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 01:03:33 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 01:03:33 INFO  ConnectionUtil:57 - connected to db
+2021-03-06 01:03:57 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 01:03:57 INFO  ConnectionUtil:57 - connected to db
+2021-03-06 01:04:28 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 01:04:28 INFO  ConnectionUtil:57 - connected to db
+2021-03-06 01:07:10 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 01:07:10 INFO  ConnectionUtil:57 - connected to db
+2021-03-06 01:07:55 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 01:07:55 INFO  ConnectionUtil:57 - connected to db
+2021-03-06 01:09:01 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 01:09:01 INFO  ConnectionUtil:57 - connected to db
+2021-03-06 01:13:16 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 01:13:16 INFO  ConnectionUtil:57 - connected to db
+2021-03-06 01:14:30 WARN  ConnectionUtil:50 - unable to obtain a connection to the database
+2021-03-06 01:14:30 INFO  ConnectionUtil:60 - connected to db
+2021-03-06 01:15:04 WARN  ConnectionUtil:50 - unable to obtain a connection to the database
+2021-03-06 01:15:04 INFO  ConnectionUtil:60 - connected to db
+2021-03-06 01:15:24 WARN  ConnectionUtil:50 - unable to obtain a connection to the database
+2021-03-06 01:15:24 INFO  ConnectionUtil:60 - connected to db
+2021-03-06 01:18:00 WARN  ConnectionUtil:54 - unable to obtain a connection to the database
+2021-03-06 01:18:00 INFO  ConnectionUtil:62 - connected to db
+2021-03-06 01:25:42 WARN  ConnectionUtil:48 - unable to obtain a connection to the database
+2021-03-06 01:25:42 INFO  ConnectionUtil:55 - connected to db
+2021-03-06 01:26:29 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 01:26:29 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 01:27:15 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 01:27:15 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 01:31:19 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 01:31:19 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 01:35:55 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 01:35:55 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 01:39:08 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 01:39:08 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 01:43:13 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 01:43:13 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 01:44:50 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 01:44:50 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 01:45:00 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 01:45:00 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 02:09:44 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 02:09:44 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 02:24:28 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 02:24:28 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 12:30:38 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 12:30:38 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 12:34:17 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 12:34:17 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 12:34:36 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 12:34:36 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 12:35:24 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 12:35:24 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 12:35:56 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 12:35:56 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 12:36:41 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 12:36:41 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 12:37:00 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 12:37:00 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 12:39:43 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 12:39:43 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 12:42:03 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 12:42:03 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 12:59:24 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 12:59:24 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 12:59:41 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 12:59:41 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 12:59:55 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 12:59:55 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:00:15 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:00:15 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:00:50 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:00:50 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:01:35 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:01:35 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:05:26 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:05:26 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:08:05 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:08:05 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:11:45 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:11:45 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:12:05 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:12:05 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:13:08 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:13:09 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:13:21 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:13:21 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:14:29 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:14:29 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:14:46 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:14:46 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:19:34 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:19:34 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:21:27 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:21:27 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:25:35 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:25:35 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:26:47 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:26:47 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:28:34 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:28:34 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:34:00 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:34:00 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:37:21 WARN  ConnectionUtil:50 - unable to obtain a connection to the database
+2021-03-06 13:37:21 INFO  ConnectionUtil:57 - connected to db
+2021-03-06 13:37:54 WARN  ConnectionUtil:50 - unable to obtain a connection to the database
+2021-03-06 13:37:54 INFO  ConnectionUtil:57 - connected to db
+2021-03-06 13:38:58 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:38:58 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:42:07 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:42:07 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:43:31 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:43:31 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:49:00 WARN  ConnectionUtil:49 - unable to obtain a connection to the database
+2021-03-06 13:49:00 INFO  ConnectionUtil:56 - connected to db
+2021-03-06 13:57:19 WARN  ConnectionUtil:50 - unable to obtain a connection to the database
+2021-03-06 13:57:19 INFO  ConnectionUtil:57 - connected to db
+2021-03-06 13:59:56 WARN  ConnectionUtil:51 - unable to obtain a connection to the database
+2021-03-06 13:59:56 INFO  ConnectionUtil:58 - connected to db
+2021-03-06 14:14:02 WARN  ConnectionUtil:51 - unable to obtain a connection to the database
+2021-03-06 14:14:02 INFO  ConnectionUtil:58 - connected to db
+2021-03-06 14:14:57 WARN  ConnectionUtil:51 - unable to obtain a connection to the database
+2021-03-06 14:14:57 INFO  ConnectionUtil:58 - connected to db
+2021-03-06 14:18:59 WARN  ConnectionUtil:52 - unable to obtain a connection to the database
+2021-03-06 14:18:59 INFO  ConnectionUtil:59 - connected to db
+2021-03-06 14:28:23 WARN  ConnectionUtil:52 - unable to obtain a connection to the database
+2021-03-06 14:28:23 INFO  ConnectionUtil:59 - connected to db
+2021-03-06 14:29:19 WARN  ConnectionUtil:52 - unable to obtain a connection to the database
+2021-03-06 14:29:19 INFO  ConnectionUtil:59 - connected to db
+2021-03-06 14:30:00 WARN  ConnectionUtil:52 - unable to obtain a connection to the database
+2021-03-06 14:30:00 INFO  ConnectionUtil:59 - connected to db
+2021-03-06 14:50:05 WARN  ConnectionUtil:52 - unable to obtain a connection to the database
+2021-03-06 14:50:05 INFO  ConnectionUtil:59 - connected to db
+2021-03-06 14:55:37 WARN  ConnectionUtil:52 - unable to obtain a connection to the database
+2021-03-06 14:55:37 INFO  ConnectionUtil:59 - connected to db
+2021-03-06 14:56:13 WARN  ConnectionUtil:52 - unable to obtain a connection to the database
+2021-03-06 14:56:13 INFO  ConnectionUtil:59 - connected to db
+2021-03-06 14:56:45 WARN  ConnectionUtil:52 - unable to obtain a connection to the database
+2021-03-06 14:56:45 INFO  ConnectionUtil:59 - connected to db
+2021-03-06 14:56:57 WARN  ConnectionUtil:52 - unable to obtain a connection to the database
+2021-03-06 14:56:57 INFO  ConnectionUtil:59 - connected to db
+2021-03-06 14:58:36 WARN  ConnectionUtil:52 - unable to obtain a connection to the database
+2021-03-06 14:58:36 INFO  ConnectionUtil:59 - connected to db
+2021-03-06 15:01:29 WARN  ConnectionUtil:53 - unable to obtain a connection to the database
+2021-03-06 15:01:29 INFO  ConnectionUtil:60 - connected to db
+2021-03-06 15:01:47 WARN  ConnectionUtil:51 - unable to obtain a connection to the database
+2021-03-06 15:01:47 INFO  ConnectionUtil:58 - connected to db
+2021-03-06 15:02:27 WARN  ConnectionUtil:51 - unable to obtain a connection to the database
+2021-03-06 15:02:27 INFO  ConnectionUtil:58 - connected to db
+2021-03-06 15:04:15 WARN  ConnectionUtil:51 - unable to obtain a connection to the database
+2021-03-06 15:04:15 INFO  ConnectionUtil:58 - connected to db
+2021-03-06 15:04:48 WARN  ConnectionUtil:52 - unable to obtain a connection to the database
+2021-03-06 15:04:48 INFO  ConnectionUtil:59 - connected to db
+2021-03-06 15:05:48 WARN  ConnectionUtil:53 - unable to obtain a connection to the database
+2021-03-06 15:05:48 INFO  ConnectionUtil:60 - connected to db
+2021-03-06 15:12:04 WARN  ConnectionUtil:53 - unable to obtain a connection to the database
+2021-03-06 15:12:04 INFO  ConnectionUtil:60 - connected to db
+2021-03-06 15:13:40 WARN  ConnectionUtil:54 - unable to obtain a connection to the database
+2021-03-06 15:13:40 INFO  ConnectionUtil:61 - connected to db
+2021-03-06 15:15:05 WARN  ConnectionUtil:54 - unable to obtain a connection to the database
+2021-03-06 15:15:05 INFO  ConnectionUtil:61 - connected to db
+2021-03-06 15:18:47 WARN  ConnectionUtil:55 - unable to obtain a connection to the database
+2021-03-06 15:18:47 INFO  ConnectionUtil:62 - connected to db

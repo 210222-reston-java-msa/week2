@@ -1,0 +1,24 @@
+package com.example.sessionservlet;
+
+import java.io.IOException;
+
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletResponse;
+
+public class SessionServlet extends HttpServlet {
+
+	private static final long serialVersionUID = 1L;
+	
+	public SessionServlet() {
+		super();
+	}
+
+	
+//	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+//		
+//	}
+	}
+	
+	
+
+

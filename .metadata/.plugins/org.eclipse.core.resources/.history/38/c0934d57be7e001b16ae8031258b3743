@@ -1,0 +1,6 @@
+url=jdbc:postgresql://database-1.cneqsdjhaxmc.us-east-2.rds.amazonaws.com:5432/postgres2?currentSchema=employeeapp
+username=postgres	
+password=postgres1234
+
+#jdbc:postgresql://{host}[:{port}]/[{database}]
+#database-1.cneqsdjhaxmc.us-east-2.rds.amazonaws.com

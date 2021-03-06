@@ -1,0 +1,63 @@
+package com.example.indirectservlet;
+
+import java.io.IOException;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.apache.log4j.Logger;
+
+import com.example.directservlet.DirectServlet;
+
+/**
+ * Servlet implementation class IndirectServlet
+ */
+public class IndirectServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+	private Logger log = Logger.getLogger(IndirectServlet.class);
+
+	protected void doGet(HttpServletRequest request, HttpServletResponse response)
+			throws ServletException, IOException {
+
+		log.info("in the Indirect doGet() method");
+
+		// there is a method on the response object called sendRedirect()
+		// this allows us to redirect the user to another resource
+
+//		response.sendRedirect("https://www.google.com");
+
+		// redirect to another servlet
+//		response.sendRedirect("http://localhost:8080/HelloServlets/dirserv");
+
+		// redirect to another html page
+		response.sendRedirect("resources/html/somepage.html");
+
+//		/HelloServlets/src/main/webapp/WEB-INF/resources/html/somepage.html 
+
+	}
+
+	/*
+	 * Request Dispatcher is an interface whose implementation defines an object
+	 * which can dispatch the request to any resources on the server
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response)
+			throws ServletException, IOException {
+		doGet(request, response);
+		
+		
+		//redirect to an html page
+//		RequestDispatcher rdis = request.getRequestDispatcher("resources/html/somepage.html");j
+		
+		//redirect to another servlet
+		RequestDispatcher rdis = request.getRequestDispatcher("/indirserv");
+		
+		
+		rdis.forward(request, response);
+
+	}
+
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Welcome!!</title>
+</head>
+<body>
+	<div class="superviallian-container">
+		<h1>Welcome to the Supervillain Servlets</h1>
+
+		<!-- don't use a slash in the action when I'm specifying that I want to contact that particular servlet -->
+		<form method="GET" action="dirserv">
+			<p>Direct Servlet, GET!</p>
+			<input type="submit" value="Direct text Response"
+		</form>
+
+	</div>
+
+</body>
+</html>
